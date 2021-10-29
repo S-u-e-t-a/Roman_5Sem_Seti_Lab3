@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5Sem_Seti_Lab3", "5Sem_Seti_Lab3\5Sem_Seti_Lab3.csproj", "{CC9CA850-029B-4FC2-BDF4-AEE1CA925EFA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C15FC48C-EF60-424A-A4D4-E616155219C1}"
+	ProjectSection(SolutionItems) = preProject
+		5Sem_Seti_Lab3\не очень правильно.py = 5Sem_Seti_Lab3\не очень правильно.py
+		5Sem_Seti_Lab3\очень неправильная реализация, но красивая.py = 5Sem_Seti_Lab3\очень неправильная реализация, но красивая.py
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
